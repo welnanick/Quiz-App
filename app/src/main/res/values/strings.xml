@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Quiz App</string>
+    <string name="quiz_header">University of Minnesota Quiz</string>
+    <string name="question_1_header">Question 1:</string>
+    <string name="question_2_header">Question 2:</string>
+    <string name="question_3_header">Question 3:</string>
+    <string name="question_4_header">Question 4:</string>
+    <string name="question_1">What year was the University of Minnesota established?</string>
+    <string name="answer_hint_text">Answer</string>
+    <string name="question_2_body">The mascot of the University of Minnesota is Bucky Badger.</string>
+    <string name="question_3_body">Select all of the following cities that have a University of Minnesota campus in them.</string>
+    <string name="question_4_body">What is the name of the University of Minnesota Marching Band?</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="saint_paul_answer_text">Saint Paul</string>
+    <string name="waseca_answer_text">Waseca</string>
+    <string name="duluth_answer_text">Duluth</string>
+    <string name="morris_answer_text">Morris</string>
+    <string name="mankato_answer_text">Mankato</string>
+    <string name="crookston_answer_text">Crookston</string>
+    <string name="minneapolis_answer_text">Minneapolis</string>
+    <string name="rochester_answer_text">Rochester</string>
+    <string name="grade_button_text">Grade</string>
+    <string name="score_text">(/4)</string>
 </resources>
