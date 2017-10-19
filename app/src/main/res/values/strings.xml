@@ -21,5 +21,11 @@
     <string name="minneapolis_answer_text">Minneapolis</string>
     <string name="rochester_answer_text">Rochester</string>
     <string name="grade_button_text">Grade</string>
-    <string name="score_text">(/4)</string>
+    <string name="score_text">(0/4)</string>
+    <string name="four_correct">Great Job!</string>
+    <string name="three_correct">Almost!</string>
+    <string name="two_or_less_correct">Try Again</string>
+    <string name="answer_1">1851</string>
+    <string name="answer_4">The Pride of Minnesota</string>
+    <string name="score_text_format">(%d/4)</string>
 </resources>
